@@ -1,29 +1,28 @@
-# Привет, меня зовут Артем!
+# Hello, my name is Aleksandra!
 
 ---
 
-### 👨‍💻 Обо мне:
+###  About me:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
+I am an entry-level QA Engineer with a keen eye for detail and a passion for ensuring software quality. Skilled in manual testing, test case creation, and bug reporting, I am eager to apply my analytical mindset to identify issues and improve product performance. I am committed to learning and growing in the field of software testing.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+
+- 📫 Contacts: [![LinkedIn Badge]]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashasopiyeva@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Testing Documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -36,7 +35,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web App Testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -46,7 +45,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile APp Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -59,7 +58,7 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -68,7 +67,7 @@
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -79,6 +78,7 @@
 
 ---
 
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
@@ -88,3 +88,4 @@
 --- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+
