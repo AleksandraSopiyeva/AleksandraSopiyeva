@@ -67,6 +67,18 @@ I am an entry-level QA Engineer with a keen eye for detail and a passion for ens
 
 ---
 
+### Testing Artefacts
+- [Theory](https://github.com/AleksandraSopiyeva/theory)
+- [Design](https://github.com/AleksandraSopiyeva/design)
+- [Testing documentation](https://github.com/AleksandraSopiyeva/docs)
+- [Database](https://github.com/AleksandraSopiyeva/Database)
+- [API](https://github.com/AleksandraSopiyeva/api)
+- [Web-app](https://github.com/AleksandraSopiyeva/web)
+- [Mobile-app](https://github.com/AleksandraSopiyeva/Mobile)
+- [Git-bash](https://github.com/AleksandraSopiyeva/git_bash)
+
+---
+
 ### ✏️ Code:
 
 <div>
