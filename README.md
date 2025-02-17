@@ -7,7 +7,7 @@
 I am an entry-level QA Engineer with a keen eye for detail and a passion for ensuring software quality. Skilled in manual testing, test case creation, and bug reporting, I am eager to apply my analytical mindset to identify issues and improve product performance. I am committed to learning and growing in the field of software testing.
 
 
-- 📫 Contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aleksandra-sopiyeva-571903351/)
+- 📫 Contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@AleksandraSopiyeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aleksandra-sopiyeva-571903351/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashasopiyeva@gmail.com)
 
 ---
