@@ -4,11 +4,13 @@
 
 ###  About me:
 
-I am an entry-level QA Engineer with a keen eye for detail and a passion for ensuring software quality. Skilled in manual testing, test case creation, and bug reporting, I am eager to apply my analytical mindset to identify issues and improve product performance. I am committed to learning and growing in the field of software testing.
+I     am an entry-level QA Engineer with a keen eye for detail and a passion for ensuring software quality. Skilled in manual testing, test case creation, and bug reporting, I am eager to apply my analytical mindset to identify issues and improve product performance. I am committed to learning and growing in the field of software testing.
 
+- [My CV](https://drive.google.com/file/d/1SfQrT_jKp5Cag0bltMtn4so2-d7x4VmX/view?usp=sharing)
 
 - 📫 Contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@AleksandraSopiyeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aleksandra-sopiyeva-571903351/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashasopiyeva@gmail.com)
+
 
 ---
 
@@ -24,6 +26,7 @@ I am an entry-level QA Engineer with a keen eye for detail and a passion for ens
 
 ### 📁 Testing Documentation:
 
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -36,6 +39,16 @@ I am an entry-level QA Engineer with a keen eye for detail and a passion for ens
 
 ### 🛠 Web App Testing:
 
+[Internet Store](https://qa.demoshopping.ru/)
+
+### About project:
+
+- Functional, UI, and Exploratory Testing: Conducted comprehensive testing on the "Online-store" web application to ensure compliance with business requirements and a seamless user experience.
+- Test Case Design & Execution: Developed detailed test cases for core functionalities, including user authentication (login/logout), shopping cart management, checkout process, and payment integration. Ensured test coverage for different user scenarios.
+- Bug Tracking & Reporting: Identified, documented, and tracked software defects using YouTrack, providing clear reproduction steps and severity assessment. Monitored bug fixes and verified resolutions in subsequent releases.
+
+###
+
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
@@ -45,6 +58,15 @@ I am an entry-level QA Engineer with a keen eye for detail and a passion for ens
 ---
 
 ### 📱 Mobile APp Testing:
+
+### About project:
+
+- Cross-Platform Testing: Conducted testing of the Shopping List app on Android and iOS, ensuring smooth functionality across different devices and OS versions.
+- Regression & Usability Testing: Performed regression testing to validate bug fixes and prevent feature breakage. Assessed usability aspects to enhance user experience.
+- Regression & Usability Testing: Performed regression testing to validate bug fixes and prevent feature breakage. Assessed usability aspects to enhance user experience.
+- Network Analysis: Used Charles Proxy to inspect and analyze network requests, detect API failures, and verify data integrity during client-server communication.
+
+###
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -57,6 +79,14 @@ I am an entry-level QA Engineer with a keen eye for detail and a passion for ens
 ---
 
 ### 💾 Data:
+
+### About project
+
+- Data Validation & Retrieval: Wrote SQL queries to verify database integrity and extract transaction records for testing purposes.
+- Complex Queries: Utilized JOINs, aggregate functions, and filtering conditions to retrieve and analyze relevant datasets.
+- Database Integrity Testing: Simulated data entry errors to test database constraints (e.g., primary keys, foreign keys, unique constraints, and data types), ensuring data consistency and validation rules were properly enforced.
+
+###
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
